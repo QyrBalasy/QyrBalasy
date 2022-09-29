@@ -1,27 +1,8 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/shakarimsungat/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://www.instagram.com/_qyrbalasy/">
-      <img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
-    </a>
-    <a href="https://www.facebook.com/profile.php?id=100035914818991">
-      <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-    </a>
-    <a href="https://t.me/idmavesna">
-      <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
-    </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=QyrBalasy&style=flat-square&color=blue" alt=""/>
-  <br/>
-   Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</div>
+<h1>
+Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
----
-
-:man_technologist: About me: </br>
+### :man_technologist: About me: </br>
 Я Фронт енд разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Казахстана.
 
 - :telescope: Мне 26 лет, и я в программировании более 1 года. Занимался вэб разработкой, в частности поднимал и поддерживал сайты. Сейчас занимаюсь Фронт енд направлением;
@@ -58,7 +39,26 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress"  alt="WordPress" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  
-  
-  
+</div>
+
+---
+
+### :iphone: Contact with me:
+<div>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/shakarimsungat/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.instagram.com/_qyrbalasy/">
+      <img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+    </a>
+    <a href="https://www.facebook.com/profile.php?id=100035914818991">
+      <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+    </a>
+    <a href="https://t.me/idmavesna">
+      <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+    </a>
+  </div>
+  See also my CV on hh and portfolio <br/>
+  <img src="https://komarev.com/ghpvc/?username=QyrBalasy&style=flat-square&color=blue" alt=""/>
 </div>
